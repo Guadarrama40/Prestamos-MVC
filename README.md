@@ -36,7 +36,8 @@ Ingresamos a http://localhost/phpmyadmin/ para crear la base de datos
 ![WhatsApp Image 2024-04-29 at 6 24 39 PM](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/458cacbf-9c28-4957-ac92-e8a822ab00ee)
 
 Importamos el archivo sql donde se encuentra en la carpeta DB
-![WhatsApp Image 2024-04-29 at 6 24 39 PM](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/5acf7cfc-0c13-4e14-8338-81968274c963)
+![Uploading WhatsApp Image 2024-04-29 at 6.23.11 PM.jpeg…]()
+
 
 Ingresamos a la url http://localhost/Prestamos/
 ![WhatsApp Image 2024-04-29 at 6 27 40 PM (1)](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/d23c4d69-8e9e-429d-b40f-4efa41e83fec)
