@@ -1,4 +1,3 @@
-Flores Alvarado Julio Cesar
 Castillo Guadarrama Brenda
 Ensayo de un Modelo-Vista-Controlador
 Instituto Tecnológico de Tláhuac
@@ -15,8 +14,39 @@ Referencias	13
 
 Resumen
 El Modelo-Vista-Controlador (MVC) es un patrón arquitectónico ampliamente utilizado en el desarrollo de software. Este enfoque divide una aplicación en tres componentes principales: el modelo, que representa los datos y la lógica de negocio; la vista, que se encarga de la presentación de la información al usuario; y el controlador, que actúa como intermediario entre el modelo y la vista. Este ensayo explora la importancia del MVC en el desarrollo de software moderno, sus beneficios y su aplicación en diferentes contextos.
+
 Introducción
 En el panorama actual del desarrollo de software, el modularidad, la escalabilidad y la mantenibilidad son aspectos cruciales para el éxito de un proyecto. El patrón MVC surge como una solución elegante para abordar estos desafíos al promover la separación de preocupaciones y la organización estructurada del código. Al dividir una aplicación en tres componentes distintos pero interconectados, MVC permite un desarrollo más ordenado, facilita la reutilización de código y promueve una mayor flexibilidad y adaptabilidad a medida que los requerimientos evolucionan.
+
+Ejecución del Programa
+
+Para ejecutar este sistema se debe de ingresar a la carpeta de xampp
+![WhatsApp Image 2024-04-29 at 6 13 33 PM](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/45a2641a-65cf-4c6d-8348-ed7b230db93d)
+
+Despues ingresar a la carpeta htdocs ya que es el directorio raíz predeterminado donde se almacenan los archivos que constituyen el contenido de un sitio web
+![WhatsApp Image 2024-04-29 at 6 14 14 PM](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/db897bf7-c11d-47b1-91a7-2e454c905a38)
+
+Se pega el proyecto de prestamos 
+![WhatsApp Image 2024-04-29 at 6 14 52 PM](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/9164c438-a131-4831-ba63-3a6f5d067998)
+
+podemos ver que todos los archivos se encuentran en la carpeta documentos 
+![WhatsApp Image 2024-04-29 at 6 15 20 PM](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/f5e8b22b-ea00-4312-9109-aac87d582094)
+
+Ingresamos a http://localhost/phpmyadmin/ para crear la base de datos
+![WhatsApp Image 2024-04-29 at 6 24 39 PM](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/458cacbf-9c28-4957-ac92-e8a822ab00ee)
+
+Importamos el archivo sql donde se encuentra en la carpeta DB
+![WhatsApp Image 2024-04-29 at 6 24 39 PM](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/5acf7cfc-0c13-4e14-8338-81968274c963)
+
+Ingresamos a la url http://localhost/Prestamos/
+![WhatsApp Image 2024-04-29 at 6 27 40 PM (1)](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/d23c4d69-8e9e-429d-b40f-4efa41e83fec)
+
+insertamos el usuario: Administrador y contraseña: Administrador
+![image](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/78466e31-8c9d-41f4-a1a1-e75fdb2ba063)
+
+Y como se vizualiza esta funcionando el sistema
+
+
 Desarrollo
 Estos archivos son utilizados para crear una página web con funcionalidades básicas como la estructura de la cuadrícula, botones, formularios, barras de desplazamiento, alertas, ventanas emergentes y más. También se utilizan para aplicar estilos a la página web y mejorar la experiencia del usuario.
 ![image](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/0f31bc38-3734-4572-a4b4-7ac3d606fa44)
