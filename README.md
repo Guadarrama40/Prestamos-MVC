@@ -2,7 +2,7 @@ Castillo Guadarrama Brenda
 <br>
 Flores Alvarado Julio Cesar
 <br>
-<br>
+</br>
 Ensayo de un Modelo-Vista-Controlador
 Instituto Tecnológico de Tláhuac
 Ingeniería en Sistemas Computacionales
