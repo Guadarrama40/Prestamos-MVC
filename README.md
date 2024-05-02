@@ -1,22 +1,16 @@
 Castillo Guadarrama Brenda
 <br>
 Flores Alvarado Julio Cesar
-<br><br>
+<br>
 <hr>
-Ensayo de un Modelo-Vista-Controlador<br>
-Instituto Tecnológico de Tláhuac<br>
-Ingeniería en Sistemas Computacionales<br>
-Grupo: 8S2. Programación Web PHP con MVC<br>
-21 de marzo de 2024<br>
-Índice <br>
-Resumen	1<br>
-Introducción	1<br>
-Desarrollo	1<br>
-Conclusiones	12 <br>
-Referencias	13 <br>
+<p align="center"><strong>Ensayo de un Modelo-Vista-Controlador</strong></p>
+<p align="center"><strong>Instituto Tecnológico de Tláhuac</strong></p>
+<p align="center"><strong>Ingeniería en Sistemas Computacionales</strong></p>
+<p align="center"><strong>Grupo: 8S2.</strong></p>
+<p align="center"><strong>Programación Web PHP con MVC</strong></p>
+<p align="center"><strong>02 de mayo de 2024</strong></p>
 
-
-Resumen<br>
+<p><strong>Resumen</strong></p>
 El Modelo-Vista-Controlador (MVC) es un patrón arquitectónico ampliamente utilizado en el desarrollo de software. Este enfoque divide una aplicación en tres componentes principales: el modelo, que representa los datos y la lógica de negocio; la vista, que se encarga de la presentación de la información al usuario; y el controlador, que actúa como intermediario entre el modelo y la vista. Este ensayo explora la importancia del MVC en el desarrollo de software moderno, sus beneficios y su aplicación en diferentes contextos.
 
 Introducción<br>
@@ -25,6 +19,7 @@ En el panorama actual del desarrollo de software, el modularidad, la escalabilid
 Ejecución del Programa<br>
 
 Para ejecutar este sistema se debe de ingresar a la carpeta de xampp<br>
+
 ![WhatsApp Image 2024-04-29 at 6 13 33 PM](https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/45a2641a-65cf-4c6d-8348-ed7b230db93d)
 
 Despues ingresar a la carpeta htdocs ya que es el directorio raíz predeterminado donde se almacenan los archivos que constituyen el contenido de un sitio web<br>
