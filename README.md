@@ -1,12 +1,19 @@
-﻿Página 2 de 13
 
-**Flores Alvarado Julio Cesar
-Ensayo de un Modelo-Vista-Controlador
-Instituto Tecnológico de Tláhuac
-Ingeniería en Sistemas Computacionales
-Grupo: 8S2. Programación Web PHP con MVC
-21 de marzo de 2024**
-# Índice 
+<div align="center">
+
+# Ensayo de un Modelo-Vista-Controlador
+
+## Instituto Tecnológico de Tláhuac
+## Ingeniería en Sistemas Computacionales
+## Programación Web PHP con MVC
+## Castillo Guadarrama Brenda
+## Grupo: 8S2
+## 02 de mayo de 2024
+
+</div>
+
+# Índice
+ 
 [***Resumen***	1](#_toc161927398)
 
 [***Introducción***	1](#_toc161927399)
@@ -23,11 +30,39 @@ Grupo: 8S2. Programación Web PHP con MVC
 *El Modelo-Vista-Controlador (MVC) es un patrón arquitectónico ampliamente utilizado en el desarrollo de software. Este enfoque divide una aplicación en tres componentes principales: el modelo, que representa los datos y la lógica de negocio; la vista, que se encarga de la presentación de la información al usuario; y el controlador, que actúa como intermediario entre el modelo y la vista. Este ensayo explora la importancia del MVC en el desarrollo de software moderno, sus beneficios y su aplicación en diferentes contextos.*
 # <a name="_toc161876627"></a><a name="_toc161927399"></a>***Introducción***
 *En el panorama actual del desarrollo de software, el modularidad, la escalabilidad y la mantenibilidad son aspectos cruciales para el éxito de un proyecto. El patrón MVC surge como una solución elegante para abordar estos desafíos al promover la separación de preocupaciones y la organización estructurada del código. Al dividir una aplicación en tres componentes distintos pero interconectados, MVC permite un desarrollo más ordenado, facilita la reutilización de código y promueve una mayor flexibilidad y adaptabilidad a medida que los requerimientos evolucionan.*
+# <a name="_toc161876628"></a><a name="_toc161927400"></a>***Ejecución del programa***
+Paso 1: Se accede a la carpeta XAMPP, un componente fundamental para la instalación y operación eficiente del software XAMPP.
+
+<center><figure>
+    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/910b667c-073c-446b-91c7-d01041bb9370">
+</figure></center><br>
+<center><figcaption><i><b>Figura 1:Representación visual del proceso</b></i></figcaption></center><br><br><br><br>
+
+Paso 2: Posteriormente, se navega hacia la carpeta htdocs, una ubicación dentro de la instalación de XAMPP designada para el almacenamiento de los archivos de los sitios web.<br>
+<figure style="text-align: center;">
+    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/e9d19e14-2778-4881-a5c3-9a9147983988">
+    <br><figcaption><i><b>Figura 2:Ilustración del procedimiento mencionado</b></i></figcaption>
+</figure><br><br><br><br>
+
+Paso 3: Al ingresar a htdos se crea una carpeta llamada "Prestamos" como se visualiza en la figura 3 <br>
+<figure style="text-align: center;">
+    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/e9d19e14-2778-4881-a5c3-9a9147983988">
+    <br><figcaption><i><b>Figura 3:Ilustración del procedimiento mencionado</b></i></figcaption>
+</figure><br><br><br><br>
+
+Paso 4: Al ingresar a htdos se crea una carpeta llamada "Prestamos" como se visualiza en la figura 3 <br>
+<figure style="text-align: center;">
+    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/879a8d4d-ecbb-4138-853e-f1bc64aff50d)">
+    <br><figcaption><i><b>Figura 3: Ilustración del procedimiento mencionado</b></i></figcaption>
+</figure><br><br>
+
 # <a name="_toc161876628"></a><a name="_toc161927400"></a>***Desarrollo***
 Estos archivos son utilizados para crear una página web con funcionalidades básicas como la estructura de la cuadrícula, botones, formularios, barras de desplazamiento, alertas, ventanas emergentes y más. También se utilizan para aplicar estilos a la página web y mejorar la experiencia del usuario.
 
-![](Aspose.Words.02f2ef8c-4e2a-4ed6-83d3-62f5c5447204.001.jpeg)
-
+<figure style="text-align: center;">
+    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/38c611bc-2460-498a-8d9b-e3d52f079c9b" alt="imagen" style="width:300px;height:100px;">
+    <br><figcaption><i><b>Figura 1:</b></i> Descripción de la imagen</figcaption>
+</figure>
 El Modelo-Vista-Controlador se compone de tres elementos clave:
 ## <a name="_toc161876629"></a>***Modelo:***
 *El modelo representa los datos subyacentes de la aplicación y la lógica de negocio asociada. Es responsable de manejar la manipulación y el almacenamiento de los datos, así como de aplicar las reglas de negocio necesarias para procesarlos correctamente. Al separar la lógica de negocio del resto de la aplicación, el modelo facilita la reutilización y la prueba de la funcionalidad de manera independiente.*
