@@ -44,17 +44,37 @@ Paso 2: Posteriormente, se navega hacia la carpeta htdocs, una ubicación dentro
     <br><figcaption><i><b>Figura 2:Ilustración del procedimiento mencionado</b></i></figcaption>
 </figure><br><br><br><br>
 
-Paso 3: Al ingresar a htdos se crea una carpeta llamada "Prestamos" como se visualiza en la figura 3 <br>
+Paso 3: Al ingresar a htdcs se crea una carpeta llamada "Prestamos" como se visualiza en la figura 3 <br>
 <figure style="text-align: center;">
-    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/e9d19e14-2778-4881-a5c3-9a9147983988">
-    <br><figcaption><i><b>Figura 3:Ilustración del procedimiento mencionado</b></i></figcaption>
+    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/b41c601d-c1a9-4840-9ded-16dc71a446e3)">
+    <br><figcaption><i><b>Figura 3:Creación de Carpeta "Prestamos" en htdcs</b></i></figcaption>
 </figure><br><br><br><br>
 
-Paso 4: Al ingresar a htdos se crea una carpeta llamada "Prestamos" como se visualiza en la figura 3 <br>
+Paso 4: Copiamos los archivos en la carpeta "PRESTAMOS" visualizar en la figura 4 <br>
 <figure style="text-align: center;">
-    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/879a8d4d-ecbb-4138-853e-f1bc64aff50d)">
-    <br><figcaption><i><b>Figura 3: Ilustración del procedimiento mencionado</b></i></figcaption>
-</figure><br><br>
+    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/a16d5d8c-1cef-4d78-8b07-a9fd166b4a60)">
+    <br><figcaption><i><b>Figura 4: Copia de Archivos en Carpeta "PRESTAMOS"</b></i></figcaption>
+</figure><br><br><br><br>
+
+Paso 5: Entramos a la URL: http://localhost/phpmyadmin/ para crear nuestra base de datos con el nombre de "prestamos", las configuraciones generales de "utf8mb4_spanish2_c1". Y en la base de datos que creamos importamos el archivo spm que se encuentra en la carpeta DB de prestamos como se visualiza en la figura 5 <br>
+<figure style="text-align: center;">
+    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/59111298-e613-4e47-96ec-ada6382122ff" style="width: 800px; height: auto;">
+    <br>
+    <figcaption><i><b>Figura 5: Importación de Archivo spm en phpMyAdmin</b></i></figcaption>
+</figure><br><br><br><br>
+
+Paso 6: Ingresamos a la URL: http://localhost/Prestamos/ y vemos que entramos a la vista principal de prestamos como se visualiza en la figura 6 e ingresamos las contraseñas "Administrador" "Administrador" <br>
+<figure style="text-align: center;">
+    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/373b02ac-1d11-45ee-8ff0-c1e2bb5d7525" style="width: 800px; height: auto;">
+    <br><figcaption><i><b>Figura 6: Vista Principal de Prestamos con Contraseñas</b></i></figcaption>
+</figure><br><br><br><br>
+
+Paso 7: Pagina principal de prestamos <br>
+<figure style="text-align: center;">
+    <img src="https://github.com/hjdzsklfj/Prestamos-MVC/assets/150282544/a59543ec-88d7-4324-a248-3a5b2dcccf99" style="width: 800px; height: auto;">
+    <br><figcaption><i><b>Figura 7: Página Principal de Prestamos</b></i></figcaption>
+</figure><br><br><br><br>
+
 
 # <a name="_toc161876628"></a><a name="_toc161927400"></a>***Desarrollo***
 Estos archivos son utilizados para crear una página web con funcionalidades básicas como la estructura de la cuadrícula, botones, formularios, barras de desplazamiento, alertas, ventanas emergentes y más. También se utilizan para aplicar estilos a la página web y mejorar la experiencia del usuario.
